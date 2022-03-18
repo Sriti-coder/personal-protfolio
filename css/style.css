@@ -187,13 +187,12 @@ header .user img{
     text-align: center;
 }
 
-.home .content h3{
-    font-size: 7rem;
-    color:var(--black);
-    line-height: 1.1;
-    text-transform: uppercase;
+.home .content h3 {
+	font-size: 7rem;
+	color: #F5B143;
+	line-height: 1.1;
+	text-transform: uppercase;
 }
-
 .home .content p{
     font-size: 2rem;
     color:var(--yellow);
@@ -352,7 +351,7 @@ header .user img{
 
 .services .box-container .box i{
     font-size:4rem;
-    padding-bottom: 5rem;
+    padding-bottom: 2rem;
     color:#fff;
 }
 
